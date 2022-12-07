@@ -1,4 +1,5 @@
 # Email-Marketing
+The Data contains data for 64K customers who last purchased within 12 months. The customers were split randomly in 3 groups: 1/3 of the customers were not targeted at all, and the other 2/3 were targeted by two different e-mail campaigns.
 
 The data contains historical customer attributes:
 Recency: Months since last purchase.
